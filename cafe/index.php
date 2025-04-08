@@ -25,7 +25,7 @@
 		<a href="index.php">Home</a>
 		<a href="#aboutUs">About Us</a>
 		<a href="#contactUs">Contact Us</a>
-		<a href="menu.php">Menu</a>
+		<a href="menu.php">tindi food</a>
 		<a href="orderHistory.php">Order History</a>
 	</div>
 	<hr>
@@ -44,7 +44,7 @@
 			<table>
 				<tr>
 					<td bgcolor="aquamarine">
-						<div class="cursiveText">Frank bakes a rich variety of cookies. Try them all!</div>
+						<div class="cursiveText">GOUSE bakes a rich variety of cookies. Try them all!</div>
 						<table>
 							<tr>
 								<td><img src="images/Cookies.jpg" height=auto width="300"></td>
